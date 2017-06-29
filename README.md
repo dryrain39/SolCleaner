@@ -29,9 +29,10 @@ phone = '<< place here your phone number (include + and nation codes)>> '
 2. If you ran first, You must have enter auth code that is Telegram service sent
 3. Enter command what you want
 
-## Command '#솔클리너'
+## Available Commands
+### '#솔클리너'
 This command cleans all messages you writed, until '#솔클리너포인트'  
 After cleaning done, '#솔클리너' message changed to '#솔클리너포인트' for next cleaning.
 
-## Command '#업데이트확인'
+### '#업데이트확인'
 This command checks last update date of webtoon 'DENMA', that published on NAVER WEBTOON.
