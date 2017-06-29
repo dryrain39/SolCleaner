@@ -27,7 +27,7 @@ phone = '<< place here your phone number (include + and nation codes)>> '
 ## Use
 1. Run script.
 2. If you ran first, You must have enter auth code that is Telegram service sent
-3. Enter command what you want
+3. Enter command what you want to any channels
 
 ## Available Commands
 ### '#솔클리너'
